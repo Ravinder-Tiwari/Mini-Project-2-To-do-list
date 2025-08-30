@@ -1,1 +1,1 @@
-# Mini-Project-2-To-do-list
+# Mini-Project-2-Profile Card Generator
